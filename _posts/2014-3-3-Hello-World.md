@@ -1,8 +1,9 @@
 ---
 layout: post
-title: My First Ever Blog
+title: 2016-6-14-Hello-World.md
 ---
 
+![_congig.yml](/images/congig.jpg)
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
