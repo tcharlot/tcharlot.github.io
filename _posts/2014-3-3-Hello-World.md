@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-6-14-Hello-World.md
+title: First Post Attempt
 ---
 
 ![_congig.yml](/images/congig.jpg)
